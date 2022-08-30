@@ -1,0 +1,1 @@
+"Desarrollador Python con experiencia en api rest utilizando Flask, sqlalchemy, marhsmallow. Conocimientos de JavaScript."
